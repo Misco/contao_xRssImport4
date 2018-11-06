@@ -1,6 +1,8 @@
 # contao_xRssImport4
 contao_xRssImport3 for Contao 4 Php7
 
+zum Beispiel zur Übernahme von Wordpress Beiträgen
+
 Orginal forked from katgirl/contao_xRssImport3
 
 xRssImport4
